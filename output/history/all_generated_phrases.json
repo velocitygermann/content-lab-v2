@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "You've got my attention, for sure.",
+      "dutch": "Je hebt mijn aandacht, zeker.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116038"
+    },
+    {
+      "english": "I'm feeling a good vibe, you?",
+      "dutch": "Ik voel een goede vibe, jij?",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116049"
+    },
+    {
+      "english": "Let's make some magic happen.",
+      "dutch": "Laten we wat magie maken.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116050"
+    },
+    {
+      "english": "You're looking pretty amazing, today.",
+      "dutch": "Je ziet er best geweldig uit, vandaag.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116051"
+    },
+    {
+      "english": "This is going to be fun, right?",
+      "dutch": "Dit wordt leuk, hè?",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116052"
+    },
+    {
+      "english": "I'm already smiling, thanks to you.",
+      "dutch": "Ik lach al, dankzij jou.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116053"
+    },
+    {
+      "english": "We should definitely do this again.",
+      "dutch": "Dit moeten we zeker nog eens doen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116054"
+    },
+    {
+      "english": "Your energy is contagious, wow.",
+      "dutch": "Jouw energie is aanstekelijk, wow.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116056"
+    },
+    {
+      "english": "I'm curious, what's next?",
+      "dutch": "Ik ben nieuwsgierig, wat nu?",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116058"
+    },
+    {
+      "english": "This moment feels special, doesn't it?",
+      "dutch": "Dit moment voelt speciaal, toch?",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116062"
+    },
+    {
+      "english": "You have a beautiful smile, you know.",
+      "dutch": "Je hebt een mooie lach, weet je.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116063"
+    },
+    {
+      "english": "Let's keep this going, okay?",
+      "dutch": "Laten we dit doorzetten, oké?",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116064"
+    },
+    {
+      "english": "I'm really enjoying this, honestly.",
+      "dutch": "Ik geniet er echt van, eerlijk gezegd.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116065"
+    },
+    {
+      "english": "You make things interesting, always.",
+      "dutch": "Jij maakt dingen interessant, altijd.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116066"
+    },
+    {
+      "english": "This could be the start of something.",
+      "dutch": "Dit kan het begin zijn van iets.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116067"
+    },
+    {
+      "english": "I like your style, very much.",
+      "dutch": "Ik hou van je stijl, heel erg.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116068"
+    },
+    {
+      "english": "We have great chemistry, don't we?",
+      "dutch": "We hebben goede chemie, hè?",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116068"
+    },
+    {
+      "english": "My day just got better, thank you.",
+      "dutch": "Mijn dag werd beter, dank je.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116070"
+    },
+    {
+      "english": "You're a bright spark, truly.",
+      "dutch": "Jij bent een heldere vonk, echt waar.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116071"
+    },
+    {
+      "english": "Let's see where this leads us.",
+      "dutch": "Laten we zien waar dit ons brengt.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116072"
+    },
+    {
+      "english": "I feel a real connection, here.",
+      "dutch": "Ik voel een echte connectie, hier.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116072"
+    },
+    {
+      "english": "You've got a way about you.",
+      "dutch": "Je hebt wel iets, hè.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116073"
+    },
+    {
+      "english": "This is turning out great, surprisingly.",
+      "dutch": "Dit pakt verrassend goed uit.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116074"
+    },
+    {
+      "english": "I'm intrigued, tell me more.",
+      "dutch": "Ik ben geïntrigeerd, vertel meer.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116075"
+    },
+    {
+      "english": "You have a lovely presence, truly.",
+      "dutch": "Je hebt een fijne uitstraling, echt waar.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116076"
+    },
+    {
+      "english": "Let's explore this possibility, yes?",
+      "dutch": "Laten we deze mogelijkheid verkennen, ja?",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116077"
+    },
+    {
+      "english": "I'm enjoying this conversation, a lot.",
+      "dutch": "Ik vind dit gesprek fijn, heel erg.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116078"
+    },
+    {
+      "english": "You bring out the best in me.",
+      "dutch": "Jij brengt het beste in me naar boven.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116078"
+    },
+    {
+      "english": "This feels like a good sign.",
+      "dutch": "Dit voelt als een goed teken.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116079"
+    },
+    {
+      "english": "I'm drawn to your charisma, honestly.",
+      "dutch": "Ik voel me aangetrokken tot je charisma, eerlijk gezegd.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116080"
+    },
+    {
+      "english": "Let's create some good memories.",
+      "dutch": "Laten we mooie herinneringen maken.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116081"
+    },
+    {
+      "english": "You make everything brighter, somehow.",
+      "dutch": "Jij maakt alles lichter, op de een of andere manier.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116081"
+    },
+    {
+      "english": "This is more than I expected, nice.",
+      "dutch": "Dit is meer dan ik verwachtte, fijn.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116082"
+    },
+    {
+      "english": "I feel a spark, can you feel it?",
+      "dutch": "Ik voel een vonk, voel je het?",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116083"
+    },
+    {
+      "english": "Let's chase this feeling, together.",
+      "dutch": "Laten we dit gevoel achterna gaan, samen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116084"
+    },
+    {
+      "english": "You have a captivating personality, truly.",
+      "dutch": "Je hebt een boeiende persoonlijkheid, echt waar.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116084"
+    },
+    {
+      "english": "This is leading somewhere good, I think.",
+      "dutch": "Dit leidt ergens heen, denk ik.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116085"
+    },
+    {
+      "english": "I'm enjoying your company, immensely.",
+      "dutch": "Ik geniet enorm van je gezelschap.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116086"
+    },
+    {
+      "english": "You're a wonderful surprise, indeed.",
+      "dutch": "Je bent een fijne verrassing, inderdaad.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116087"
+    },
+    {
+      "english": "Let's make this a good story.",
+      "dutch": "Laten we hier een goed verhaal van maken.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116088"
+    },
+    {
+      "english": "I feel a positive energy, from you.",
+      "dutch": "Ik voel een positieve energie, van jou.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116088"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "dutch": "Jij kunt dit, geloof erin.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116091"
+    },
+    {
+      "english": "Shine bright, my star.",
+      "dutch": "Straal maar, mijn ster.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116092"
+    },
+    {
+      "english": "Go for it, you're amazing.",
+      "dutch": "Ga ervoor, je bent geweldig.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116093"
+    },
+    {
+      "english": "Future's looking good, for you.",
+      "dutch": "De toekomst ziet er goed uit, voor jou.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116094"
+    },
+    {
+      "english": "Dream bigger, it's possible.",
+      "dutch": "Droom groter, het kan.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116095"
+    },
+    {
+      "english": "Just keep going, you're close.",
+      "dutch": "Ga gewoon door, je bent er bijna.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116096"
+    },
+    {
+      "english": "You're my inspiration, truly.",
+      "dutch": "Jij bent mijn inspiratie, echt waar.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116096"
+    },
+    {
+      "english": "A new day, new chances.",
+      "dutch": "Een nieuwe dag, nieuwe kansen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116097"
+    },
+    {
+      "english": "You'll succeed, I know it.",
+      "dutch": "Je slaagt erin, ik weet het.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116098"
+    },
+    {
+      "english": "Keep that smile, it's lovely.",
+      "dutch": "Houd die lach, hij is prachtig.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116099"
+    },
+    {
+      "english": "Adventure awaits, go find it.",
+      "dutch": "Avontuur wacht, ga het zoeken.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116101"
+    },
+    {
+      "english": "You are capable, remember that.",
+      "dutch": "Je bent capabel, onthoud dat.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116102"
+    },
+    {
+      "english": "Good things are coming, soon.",
+      "dutch": "Goede dingen komen eraan, snel.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116103"
+    },
+    {
+      "english": "Your energy is infectious, wow.",
+      "dutch": "Jouw energie is aanstekelijk, wauw.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116104"
+    },
+    {
+      "english": "Let's make magic happen, together.",
+      "dutch": "Laten we magie laten gebeuren, samen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116104"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "dutch": "Je bent sterker dan je denkt.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116105"
+    },
+    {
+      "english": "Believe in your own power.",
+      "dutch": "Geloof in je eigen kracht.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116106"
+    },
+    {
+      "english": "Every step counts, moving forward.",
+      "dutch": "Elke stap telt, vooruit gaan.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116107"
+    },
+    {
+      "english": "You've got a bright future.",
+      "dutch": "Je hebt een mooie toekomst.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116108"
+    },
+    {
+      "english": "Keep shining, you light up.",
+      "dutch": "Blijf stralen, je verlicht alles.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116109"
+    },
+    {
+      "english": "The best is yet to come.",
+      "dutch": "Het beste moet nog komen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116109"
+    },
+    {
+      "english": "You inspire me daily, honestly.",
+      "dutch": "Je inspireert me dagelijks, eerlijk.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116110"
+    },
+    {
+      "english": "Embrace the possibilities, darling.",
+      "dutch": "Omarm de mogelijkheden, schat.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116111"
+    },
+    {
+      "english": "You're on the right track.",
+      "dutch": "Je bent op de goede weg.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116112"
+    },
+    {
+      "english": "Let your dreams fly high.",
+      "dutch": "Laat je dromen hoog vliegen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116113"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "dutch": "Je doet het geweldig, ga zo door.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116114"
+    },
+    {
+      "english": "A world of chances awaits you.",
+      "dutch": "Een wereld aan kansen wacht op je.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116115"
+    },
+    {
+      "english": "Your smile is my sunshine.",
+      "dutch": "Jouw lach is mijn zonneschijn.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116115"
+    },
+    {
+      "english": "You can achieve anything, truly.",
+      "dutch": "Je kunt alles bereiken, echt waar.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116116"
+    },
+    {
+      "english": "Don't give up, I'm here.",
+      "dutch": "Geef niet op, ik ben er.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116117"
+    },
+    {
+      "english": "You make everything brighter.",
+      "dutch": "Je maakt alles mooier.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116118"
+    },
+    {
+      "english": "The future is yours to create.",
+      "dutch": "De toekomst is aan jou om te creëren.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116119"
+    },
+    {
+      "english": "You've got that special spark.",
+      "dutch": "Je hebt die speciale vonk.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116121"
+    },
+    {
+      "english": "Keep pushing, you're almost there.",
+      "dutch": "Blijf duwen, je bent er bijna.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116122"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "dutch": "Je potentieel is grenzeloos.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116123"
+    },
+    {
+      "english": "Let's make today amazing, together.",
+      "dutch": "Laten we deze dag geweldig maken, samen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116123"
+    },
+    {
+      "english": "You're capable of wonderful things.",
+      "dutch": "Je bent in staat tot wonderlijke dingen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116124"
+    },
+    {
+      "english": "Believe in the journey, darling.",
+      "dutch": "Geloof in de reis, schat.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116125"
+    },
+    {
+      "english": "Your strength shines through.",
+      "dutch": "Je kracht straalt erdoorheen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116126"
+    },
+    {
+      "english": "Keep chasing your dreams.",
+      "dutch": "Blijf je dromen najagen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116126"
+    },
+    {
+      "english": "You make the world better.",
+      "dutch": "Jij maakt de wereld beter.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116127"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "dutch": "Jij kunt dit, geloof erin.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116128"
+    },
+    {
+      "english": "Shine bright, my star.",
+      "dutch": "Straal maar, mijn ster.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116128"
+    },
+    {
+      "english": "Go for it, you're amazing.",
+      "dutch": "Ga ervoor, je bent geweldig.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116129"
+    },
+    {
+      "english": "Future's looking good, for you.",
+      "dutch": "De toekomst ziet er goed uit, voor jou.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116130"
+    },
+    {
+      "english": "Dream bigger, it's possible.",
+      "dutch": "Droom groter, het kan.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116130"
+    },
+    {
+      "english": "Just keep going, you're close.",
+      "dutch": "Ga gewoon door, je bent er bijna.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116131"
+    },
+    {
+      "english": "You're my inspiration, truly.",
+      "dutch": "Jij bent mijn inspiratie, echt waar.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116132"
+    },
+    {
+      "english": "A new day, new chances.",
+      "dutch": "Een nieuwe dag, nieuwe kansen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116132"
+    },
+    {
+      "english": "You'll succeed, I know it.",
+      "dutch": "Je slaagt erin, ik weet het.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116133"
+    },
+    {
+      "english": "Keep that smile, it's lovely.",
+      "dutch": "Houd die lach, hij is prachtig.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116134"
+    },
+    {
+      "english": "Adventure awaits, go find it.",
+      "dutch": "Avontuur wacht, ga het zoeken.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116134"
+    },
+    {
+      "english": "You are capable, remember that.",
+      "dutch": "Je bent capabel, onthoud dat.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116135"
+    },
+    {
+      "english": "Good things are coming, soon.",
+      "dutch": "Goede dingen komen eraan, snel.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116136"
+    },
+    {
+      "english": "Your energy is infectious, wow.",
+      "dutch": "Jouw energie is aanstekelijk, wauw.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116137"
+    },
+    {
+      "english": "Let's make magic happen, together.",
+      "dutch": "Laten we magie laten gebeuren, samen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116137"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "dutch": "Je bent sterker dan je denkt.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116138"
+    },
+    {
+      "english": "Believe in your own power.",
+      "dutch": "Geloof in je eigen kracht.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116139"
+    },
+    {
+      "english": "Every step counts, moving forward.",
+      "dutch": "Elke stap telt, vooruit gaan.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116139"
+    },
+    {
+      "english": "You've got a bright future.",
+      "dutch": "Je hebt een mooie toekomst.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116140"
+    },
+    {
+      "english": "Keep shining, you light up.",
+      "dutch": "Blijf stralen, je verlicht alles.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116141"
+    },
+    {
+      "english": "The best is yet to come.",
+      "dutch": "Het beste moet nog komen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116141"
+    },
+    {
+      "english": "You inspire me daily, honestly.",
+      "dutch": "Je inspireert me dagelijks, eerlijk.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116144"
+    },
+    {
+      "english": "Embrace the possibilities, darling.",
+      "dutch": "Omarm de mogelijkheden, schat.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116145"
+    },
+    {
+      "english": "You're on the right track.",
+      "dutch": "Je bent op de goede weg.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116147"
+    },
+    {
+      "english": "Let your dreams fly high.",
+      "dutch": "Laat je dromen hoog vliegen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116148"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "dutch": "Je doet het geweldig, ga zo door.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116149"
+    },
+    {
+      "english": "A world of chances awaits you.",
+      "dutch": "Een wereld aan kansen wacht op je.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116149"
+    },
+    {
+      "english": "Your smile is my sunshine.",
+      "dutch": "Jouw lach is mijn zonneschijn.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116150"
+    },
+    {
+      "english": "You can achieve anything, truly.",
+      "dutch": "Je kunt alles bereiken, echt waar.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116151"
+    },
+    {
+      "english": "Don't give up, I'm here.",
+      "dutch": "Geef niet op, ik ben er.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116152"
+    },
+    {
+      "english": "You make everything brighter.",
+      "dutch": "Je maakt alles mooier.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116152"
+    },
+    {
+      "english": "The future is yours to create.",
+      "dutch": "De toekomst is aan jou om te creëren.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116153"
+    },
+    {
+      "english": "You've got that special spark.",
+      "dutch": "Je hebt die speciale vonk.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116154"
+    },
+    {
+      "english": "Keep pushing, you're almost there.",
+      "dutch": "Blijf duwen, je bent er bijna.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116154"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "dutch": "Je potentieel is grenzeloos.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116155"
+    },
+    {
+      "english": "Let's make today amazing, together.",
+      "dutch": "Laten we deze dag geweldig maken, samen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116156"
+    },
+    {
+      "english": "You're capable of wonderful things.",
+      "dutch": "Je bent in staat tot wonderlijke dingen.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116156"
+    },
+    {
+      "english": "Believe in the journey, darling.",
+      "dutch": "Geloof in de reis, schat.",
+      "category": "Hope",
+      "generated_at": "2026-07-15T00:56:58.116157"
+    }
+  ],
+  "last_updated": "2026-07-15T00:56:58.116158"
+}
