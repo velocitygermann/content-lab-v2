@@ -2159,7 +2159,727 @@
       "Dutch": "Je ontgrendelt begrip!",
       "category": "Joy",
       "generated_at": "2026-07-16T04:13:59.538742"
+    },
+    {
+      "english": "Slow down, a little bit.",
+      "Dutch": "Doe rustiger aan, een beetje.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654676"
+    },
+    {
+      "english": "One step, at a time.",
+      "Dutch": "Één stap, tegelijk.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654684"
+    },
+    {
+      "english": "Don't rush, the words.",
+      "Dutch": "Haast de woorden niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654686"
+    },
+    {
+      "english": "Take your time, breathe.",
+      "Dutch": "Neem je tijd, adem.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654687"
+    },
+    {
+      "english": "It's okay, to pause.",
+      "Dutch": "Het is oké, om te pauzeren.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654688"
+    },
+    {
+      "english": "Focus, on the sound.",
+      "Dutch": "Focus, op het geluid.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654689"
+    },
+    {
+      "english": "Repeat, if needed.",
+      "Dutch": "Herhaal, indien nodig.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654690"
+    },
+    {
+      "english": "This takes practice, yes.",
+      "Dutch": "Dit kost oefening, ja.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654693"
+    },
+    {
+      "english": "Just a little slower.",
+      "Dutch": "Gewoon wat langzamer.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654695"
+    },
+    {
+      "english": "Find the rhythm, slowly.",
+      "Dutch": "Vind het ritme, langzaam.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654696"
+    },
+    {
+      "english": "Listen, carefully now.",
+      "Dutch": "Luister, voorzichtig nu.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654697"
+    },
+    {
+      "english": "Don't hurry, the sentence.",
+      "Dutch": "Haast de zin niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654698"
+    },
+    {
+      "english": "A small pause, helps.",
+      "Dutch": "Een kleine pauze, helpt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654699"
+    },
+    {
+      "english": "Let it sink in.",
+      "Dutch": "Laat het bezinken.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654700"
+    },
+    {
+      "english": "Practice makes perfect, right?",
+      "Dutch": "Oefening baart kunst, toch?",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654701"
+    },
+    {
+      "english": "Slightly softer, maybe.",
+      "Dutch": "Iets zachter, misschien.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654702"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "Dutch": "Wees geduldig, met jezelf.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654703"
+    },
+    {
+      "english": "Try again, gently.",
+      "Dutch": "Probeer het opnieuw, zachtjes.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654704"
+    },
+    {
+      "english": "Each word, matters.",
+      "Dutch": "Elk woord, telt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654706"
+    },
+    {
+      "english": "Don't rush, the meaning.",
+      "Dutch": "Haast de betekenis niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654707"
+    },
+    {
+      "english": "Hold the sound, briefly.",
+      "Dutch": "Houd het geluid vast, even.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654708"
+    },
+    {
+      "english": "Just a little, slower.",
+      "Dutch": "Gewoon een beetje, langzamer.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654709"
+    },
+    {
+      "english": "Give it a moment.",
+      "Dutch": "Geef het een moment.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654710"
+    },
+    {
+      "english": "You'll get there, eventually.",
+      "Dutch": "Je komt er wel, uiteindelijk.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654711"
+    },
+    {
+      "english": "Steady now, steady.",
+      "Dutch": "Rustig aan, rustig.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654712"
+    },
+    {
+      "english": "Breathe between words.",
+      "Dutch": "Adem tussen woorden.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654713"
+    },
+    {
+      "english": "Don't rush, ahead.",
+      "Dutch": "Haast je niet, vooruit.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654714"
+    },
+    {
+      "english": "A gentle pace, works.",
+      "Dutch": "Een rustig tempo, werkt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654715"
+    },
+    {
+      "english": "Let the sounds, linger.",
+      "Dutch": "Laat de klanken, hangen.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654716"
+    },
+    {
+      "english": "One breath, per phrase.",
+      "Dutch": "Eén ademhaling, per zin.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654717"
+    },
+    {
+      "english": "Softer, start here.",
+      "Dutch": "Zachtere, start hier.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654718"
+    },
+    {
+      "english": "Don't rush, the delivery.",
+      "Dutch": "Haast de uitspraak niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654719"
+    },
+    {
+      "english": "This needs, patience.",
+      "Dutch": "Dit vraagt, geduld.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654720"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Dutch": "Langzaam en gestaag, wint.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654721"
+    },
+    {
+      "english": "Take it, easy.",
+      "Dutch": "Doe het, rustig aan.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654722"
+    },
+    {
+      "english": "Pause, for clarity.",
+      "Dutch": "Pauzeer, voor duidelijkheid.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654723"
+    },
+    {
+      "english": "A moment, of quiet.",
+      "Dutch": "Een moment, van stilte.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654724"
+    },
+    {
+      "english": "Just listen, first.",
+      "Dutch": "Luister, eerst maar.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654724"
+    },
+    {
+      "english": "Don't rush, the learning.",
+      "Dutch": "Haast het leren niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654725"
+    },
+    {
+      "english": "Slowly, find the flow.",
+      "Dutch": "Langzaam, vind de flow.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654726"
+    },
+    {
+      "english": "Slow down, a little bit.",
+      "Dutch": "Doe rustiger aan, een beetje.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654728"
+    },
+    {
+      "english": "One step, at a time.",
+      "Dutch": "Één stap, tegelijk.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654730"
+    },
+    {
+      "english": "Don't rush, the words.",
+      "Dutch": "Haast de woorden niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654731"
+    },
+    {
+      "english": "Take your time, breathe.",
+      "Dutch": "Neem je tijd, adem.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654732"
+    },
+    {
+      "english": "It's okay, to pause.",
+      "Dutch": "Het is oké, om te pauzeren.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654734"
+    },
+    {
+      "english": "Focus, on the sound.",
+      "Dutch": "Focus, op het geluid.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654735"
+    },
+    {
+      "english": "Repeat, if needed.",
+      "Dutch": "Herhaal, indien nodig.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654736"
+    },
+    {
+      "english": "This takes practice, yes.",
+      "Dutch": "Dit kost oefening, ja.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654737"
+    },
+    {
+      "english": "Just a little slower.",
+      "Dutch": "Gewoon wat langzamer.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654738"
+    },
+    {
+      "english": "Find the rhythm, slowly.",
+      "Dutch": "Vind het ritme, langzaam.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654739"
+    },
+    {
+      "english": "Listen, carefully now.",
+      "Dutch": "Luister, voorzichtig nu.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654740"
+    },
+    {
+      "english": "Don't hurry, the sentence.",
+      "Dutch": "Haast de zin niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654741"
+    },
+    {
+      "english": "A small pause, helps.",
+      "Dutch": "Een kleine pauze, helpt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654742"
+    },
+    {
+      "english": "Let it sink in.",
+      "Dutch": "Laat het bezinken.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654743"
+    },
+    {
+      "english": "Practice makes perfect, right?",
+      "Dutch": "Oefening baart kunst, toch?",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654744"
+    },
+    {
+      "english": "Slightly softer, maybe.",
+      "Dutch": "Iets zachter, misschien.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654745"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "Dutch": "Wees geduldig, met jezelf.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654746"
+    },
+    {
+      "english": "Try again, gently.",
+      "Dutch": "Probeer het opnieuw, zachtjes.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654747"
+    },
+    {
+      "english": "Each word, matters.",
+      "Dutch": "Elk woord, telt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654748"
+    },
+    {
+      "english": "Don't rush, the meaning.",
+      "Dutch": "Haast de betekenis niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654749"
+    },
+    {
+      "english": "Hold the sound, briefly.",
+      "Dutch": "Houd het geluid vast, even.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654750"
+    },
+    {
+      "english": "Just a little, slower.",
+      "Dutch": "Gewoon een beetje, langzamer.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654751"
+    },
+    {
+      "english": "Give it a moment.",
+      "Dutch": "Geef het een moment.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654752"
+    },
+    {
+      "english": "You'll get there, eventually.",
+      "Dutch": "Je komt er wel, uiteindelijk.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654753"
+    },
+    {
+      "english": "Steady now, steady.",
+      "Dutch": "Rustig aan, rustig.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654754"
+    },
+    {
+      "english": "Breathe between words.",
+      "Dutch": "Adem tussen woorden.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654755"
+    },
+    {
+      "english": "Don't rush, ahead.",
+      "Dutch": "Haast je niet, vooruit.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654756"
+    },
+    {
+      "english": "A gentle pace, works.",
+      "Dutch": "Een rustig tempo, werkt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654757"
+    },
+    {
+      "english": "Let the sounds, linger.",
+      "Dutch": "Laat de klanken, hangen.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654758"
+    },
+    {
+      "english": "One breath, per phrase.",
+      "Dutch": "Eén ademhaling, per zin.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654759"
+    },
+    {
+      "english": "Softer, start here.",
+      "Dutch": "Zachtere, start hier.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654759"
+    },
+    {
+      "english": "Don't rush, the delivery.",
+      "Dutch": "Haast de uitspraak niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654760"
+    },
+    {
+      "english": "This needs, patience.",
+      "Dutch": "Dit vraagt, geduld.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654761"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Dutch": "Langzaam en gestaag, wint.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654762"
+    },
+    {
+      "english": "Take it, easy.",
+      "Dutch": "Doe het, rustig aan.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654763"
+    },
+    {
+      "english": "Pause, for clarity.",
+      "Dutch": "Pauzeer, voor duidelijkheid.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654764"
+    },
+    {
+      "english": "A moment, of quiet.",
+      "Dutch": "Een moment, van stilte.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654765"
+    },
+    {
+      "english": "Just listen, first.",
+      "Dutch": "Luister, eerst maar.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654766"
+    },
+    {
+      "english": "Don't rush, the learning.",
+      "Dutch": "Haast het leren niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654767"
+    },
+    {
+      "english": "Slowly, find the flow.",
+      "Dutch": "Langzaam, vind de flow.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654768"
+    },
+    {
+      "english": "Slow down, a little bit.",
+      "Dutch": "Doe rustiger aan, een beetje.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654769"
+    },
+    {
+      "english": "One step, at a time.",
+      "Dutch": "Één stap, tegelijk.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654770"
+    },
+    {
+      "english": "Don't rush, the words.",
+      "Dutch": "Haast de woorden niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654771"
+    },
+    {
+      "english": "Take your time, breathe.",
+      "Dutch": "Neem je tijd, adem.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654772"
+    },
+    {
+      "english": "It's okay, to pause.",
+      "Dutch": "Het is oké, om te pauzeren.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654773"
+    },
+    {
+      "english": "Focus, on the sound.",
+      "Dutch": "Focus, op het geluid.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654774"
+    },
+    {
+      "english": "Repeat, if needed.",
+      "Dutch": "Herhaal, indien nodig.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654775"
+    },
+    {
+      "english": "This takes practice, yes.",
+      "Dutch": "Dit kost oefening, ja.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654775"
+    },
+    {
+      "english": "Just a little slower.",
+      "Dutch": "Gewoon wat langzamer.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654776"
+    },
+    {
+      "english": "Find the rhythm, slowly.",
+      "Dutch": "Vind het ritme, langzaam.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654777"
+    },
+    {
+      "english": "Listen, carefully now.",
+      "Dutch": "Luister, voorzichtig nu.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654779"
+    },
+    {
+      "english": "Don't hurry, the sentence.",
+      "Dutch": "Haast de zin niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654785"
+    },
+    {
+      "english": "A small pause, helps.",
+      "Dutch": "Een kleine pauze, helpt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654786"
+    },
+    {
+      "english": "Let it sink in.",
+      "Dutch": "Laat het bezinken.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654787"
+    },
+    {
+      "english": "Practice makes perfect, right?",
+      "Dutch": "Oefening baart kunst, toch?",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654788"
+    },
+    {
+      "english": "Slightly softer, maybe.",
+      "Dutch": "Iets zachter, misschien.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654789"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "Dutch": "Wees geduldig, met jezelf.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654790"
+    },
+    {
+      "english": "Try again, gently.",
+      "Dutch": "Probeer het opnieuw, zachtjes.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654792"
+    },
+    {
+      "english": "Each word, matters.",
+      "Dutch": "Elk woord, telt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654793"
+    },
+    {
+      "english": "Don't rush, the meaning.",
+      "Dutch": "Haast de betekenis niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654794"
+    },
+    {
+      "english": "Hold the sound, briefly.",
+      "Dutch": "Houd het geluid vast, even.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654794"
+    },
+    {
+      "english": "Just a little, slower.",
+      "Dutch": "Gewoon een beetje, langzamer.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654795"
+    },
+    {
+      "english": "Give it a moment.",
+      "Dutch": "Geef het een moment.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654796"
+    },
+    {
+      "english": "You'll get there, eventually.",
+      "Dutch": "Je komt er wel, uiteindelijk.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654797"
+    },
+    {
+      "english": "Steady now, steady.",
+      "Dutch": "Rustig aan, rustig.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654798"
+    },
+    {
+      "english": "Breathe between words.",
+      "Dutch": "Adem tussen woorden.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654799"
+    },
+    {
+      "english": "Don't rush, ahead.",
+      "Dutch": "Haast je niet, vooruit.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654800"
+    },
+    {
+      "english": "A gentle pace, works.",
+      "Dutch": "Een rustig tempo, werkt.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654801"
+    },
+    {
+      "english": "Let the sounds, linger.",
+      "Dutch": "Laat de klanken, hangen.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654802"
+    },
+    {
+      "english": "One breath, per phrase.",
+      "Dutch": "Eén ademhaling, per zin.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654803"
+    },
+    {
+      "english": "Softer, start here.",
+      "Dutch": "Zachtere, start hier.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654804"
+    },
+    {
+      "english": "Don't rush, the delivery.",
+      "Dutch": "Haast de uitspraak niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654805"
+    },
+    {
+      "english": "This needs, patience.",
+      "Dutch": "Dit vraagt, geduld.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654805"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Dutch": "Langzaam en gestaag, wint.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654806"
+    },
+    {
+      "english": "Take it, easy.",
+      "Dutch": "Doe het, rustig aan.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654807"
+    },
+    {
+      "english": "Pause, for clarity.",
+      "Dutch": "Pauzeer, voor duidelijkheid.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654808"
+    },
+    {
+      "english": "A moment, of quiet.",
+      "Dutch": "Een moment, van stilte.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654809"
+    },
+    {
+      "english": "Just listen, first.",
+      "Dutch": "Luister, eerst maar.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654810"
+    },
+    {
+      "english": "Don't rush, the learning.",
+      "Dutch": "Haast het leren niet.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654811"
+    },
+    {
+      "english": "Slowly, find the flow.",
+      "Dutch": "Langzaam, vind de flow.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T04:12:44.654812"
     }
   ],
-  "last_updated": "2026-07-16T04:13:59.538744"
+  "last_updated": "2026-07-17T04:12:44.654814"
 }
