@@ -911,7 +911,7 @@ def generate_title_description(category_english: str, category_Dutch: str, phras
     ]
 
     # Generate comprehensive description
-    description = f"""🇪🇸 Learn Dutch with Velocity Dutch! 🇪🇸
+    description = f"""🇳🇱 Learn Dutch with Velocity Dutch! 🇳🇱
 
 In this video, you'll learn 60 essential Dutch phrases about {category_english} ({category_Dutch}).
 Perfect for beginners and intermediate learners!
@@ -1261,7 +1261,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇪🇸 VELOCITY Dutch - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
+    print("🇳🇱 VELOCITY Dutch - YOUTUBE LONG-FORM AUTOMATION 🇳🇱")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
