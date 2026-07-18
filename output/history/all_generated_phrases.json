@@ -2879,7 +2879,727 @@
       "Dutch": "Langzaam, vind de flow.",
       "category": "Patience",
       "generated_at": "2026-07-17T04:12:44.654812"
+    },
+    {
+      "english": "You, speak Dutch so well.",
+      "Dutch": "Je, spreekt zo goed Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562191"
+    },
+    {
+      "english": "Your, accent is charming.",
+      "Dutch": "Je, accent is charmant.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562203"
+    },
+    {
+      "english": "I, like your Dutch voice.",
+      "Dutch": "Ik, vind je Nederlandse stem fijn.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562205"
+    },
+    {
+      "english": "This, is easy for you.",
+      "Dutch": "Dit, is makkelijk voor jou.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562206"
+    },
+    {
+      "english": "You, understand Dutch perfectly.",
+      "Dutch": "Je, begrijpt Nederlands perfect.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562208"
+    },
+    {
+      "english": "Your, Dutch is improving fast.",
+      "Dutch": "Je, Nederlands wordt snel beter.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562209"
+    },
+    {
+      "english": "You, make Dutch sound beautiful.",
+      "Dutch": "Je, laat Nederlands mooi klinken.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562210"
+    },
+    {
+      "english": "Wow, your Dutch is amazing.",
+      "Dutch": "Wauw, je Nederlands is geweldig.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562213"
+    },
+    {
+      "english": "You, have a knack for Dutch.",
+      "Dutch": "Je, hebt aanleg voor Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562214"
+    },
+    {
+      "english": "Your, pronunciation is spot on.",
+      "Dutch": "Je, uitspraak is perfect.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562216"
+    },
+    {
+      "english": "You, are a natural Dutch speaker.",
+      "Dutch": "Je, bent een natuurlijke Nederlandse spreker.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562217"
+    },
+    {
+      "english": "I, love how you say that.",
+      "Dutch": "Ik, vind het mooi hoe je dat zegt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562218"
+    },
+    {
+      "english": "You, sound so confident in Dutch.",
+      "Dutch": "Je, klinkt zo zelfverzekerd in het Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562220"
+    },
+    {
+      "english": "Your, Dutch flows so smoothly.",
+      "Dutch": "Je, Nederlands stroomt zo soepel.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562221"
+    },
+    {
+      "english": "You, should teach me Dutch.",
+      "Dutch": "Je, zou mij Nederlands moeten leren.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562222"
+    },
+    {
+      "english": "You, really get the grammar.",
+      "Dutch": "Je, snapt de grammatica echt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562223"
+    },
+    {
+      "english": "Your, vocabulary is impressive.",
+      "Dutch": "Je, woordenschat is indrukwekkend.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562224"
+    },
+    {
+      "english": "You, speak Dutch with passion.",
+      "Dutch": "Je, spreekt Nederlands met passie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562225"
+    },
+    {
+      "english": "That, Dutch word sounds so cute.",
+      "Dutch": "Dat, Nederlandse woord klinkt zo schattig.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562226"
+    },
+    {
+      "english": "You, have a gift for languages.",
+      "Dutch": "Je, hebt talent voor talen.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562227"
+    },
+    {
+      "english": "Your, Dutch is truly delightful.",
+      "Dutch": "Je, Nederlands is echt heerlijk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562228"
+    },
+    {
+      "english": "You, are a Dutch language star.",
+      "Dutch": "Je, bent een Nederlandse taalster.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562229"
+    },
+    {
+      "english": "That, sounds so native.",
+      "Dutch": "Dat, klinkt zo inheems.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562230"
+    },
+    {
+      "english": "You, have a way with Dutch.",
+      "Dutch": "Je, hebt een flair voor Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562231"
+    },
+    {
+      "english": "Your, Dutch fluency is amazing.",
+      "Dutch": "Je, Nederlandse vloeiendheid is verbluffend.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562232"
+    },
+    {
+      "english": "You, make learning Dutch fun.",
+      "Dutch": "Je, maakt Nederlands leren leuk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562233"
+    },
+    {
+      "english": "That, Dutch phrase is perfect.",
+      "Dutch": "Die, Nederlandse zin is perfect.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562234"
+    },
+    {
+      "english": "You, have a musical Dutch voice.",
+      "Dutch": "Je, hebt een muzikale Nederlandse stem.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562235"
+    },
+    {
+      "english": "Your, Dutch is so expressive.",
+      "Dutch": "Je, Nederlands is zo expressief.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562235"
+    },
+    {
+      "english": "You, are a Dutch language wizard.",
+      "Dutch": "Je, bent een Nederlandse taalmagiër.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562236"
+    },
+    {
+      "english": "Your, Dutch sounds so natural.",
+      "Dutch": "Je, Nederlands klinkt zo natuurlijk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562237"
+    },
+    {
+      "english": "You, have a talent for Dutch.",
+      "Dutch": "Je, hebt talent voor het Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562238"
+    },
+    {
+      "english": "This, Dutch is so easy to listen to.",
+      "Dutch": "Dit, Nederlands is zo prettig om te horen.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562239"
+    },
+    {
+      "english": "You, speak Dutch with such grace.",
+      "Dutch": "Je, spreekt Nederlands met zoveel gratie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562240"
+    },
+    {
+      "english": "Your, Dutch is simply divine.",
+      "Dutch": "Je, Nederlands is simpelweg goddelijk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562241"
+    },
+    {
+      "english": "You, are a Dutch language gem.",
+      "Dutch": "Je, bent een Nederlandse taaljuweel.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562242"
+    },
+    {
+      "english": "I, could listen to your Dutch all day.",
+      "Dutch": "Ik, zou de hele dag naar je Nederlands kunnen luisteren.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562243"
+    },
+    {
+      "english": "Your, Dutch is music to my ears.",
+      "Dutch": "Je, Nederlands is muziek in mijn oren.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562244"
+    },
+    {
+      "english": "You, are a true Dutch linguist.",
+      "Dutch": "Je, bent een ware Nederlandse taalkundige.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562245"
+    },
+    {
+      "english": "Your, Dutch is so effortless.",
+      "Dutch": "Je, Nederlands is zo moeiteloos.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562245"
+    },
+    {
+      "english": "You sound amazing, darling.",
+      "Dutch": "Je klinkt geweldig, schat.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562247"
+    },
+    {
+      "english": "Your Dutch is getting so good.",
+      "Dutch": "Je Nederlands wordt zo goed.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562248"
+    },
+    {
+      "english": "I love hearing you speak.",
+      "Dutch": "Ik hoor je graag praten.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562250"
+    },
+    {
+      "english": "That pronunciation, was perfect.",
+      "Dutch": "Die uitspraak, was perfect.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562251"
+    },
+    {
+      "english": "You make it sound so easy.",
+      "Dutch": "Je laat het zo makkelijk klinken.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562252"
+    },
+    {
+      "english": "Keep going, you're on fire.",
+      "Dutch": "Ga zo door, je bent goed bezig.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562253"
+    },
+    {
+      "english": "Your confidence, is growing.",
+      "Dutch": "Je zelfvertrouwen, groeit.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562254"
+    },
+    {
+      "english": "That word, was spot on.",
+      "Dutch": "Dat woord, was perfect.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562255"
+    },
+    {
+      "english": "You're really impressing me.",
+      "Dutch": "Je maakt echt indruk op me.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562256"
+    },
+    {
+      "english": "You've got this, absolutely.",
+      "Dutch": "Je kunt dit, absoluut.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562257"
+    },
+    {
+      "english": "Such a lovely accent.",
+      "Dutch": "Zo'n lief accent.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562258"
+    },
+    {
+      "english": "You're a quick learner.",
+      "Dutch": "Je leert snel.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562259"
+    },
+    {
+      "english": "That sentence, flowed nicely.",
+      "Dutch": "Die zin, liep lekker.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562260"
+    },
+    {
+      "english": "You're getting the hang of it.",
+      "Dutch": "Je krijgt het te pakken.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562261"
+    },
+    {
+      "english": "You have a great ear.",
+      "Dutch": "Je hebt een goed oor.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562262"
+    },
+    {
+      "english": "This is going so well.",
+      "Dutch": "Dit gaat zo goed.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562263"
+    },
+    {
+      "english": "You speak with such feeling.",
+      "Dutch": "Je spreekt met zoveel gevoel.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562264"
+    },
+    {
+      "english": "You're making progress, yay!",
+      "Dutch": "Je boekt vooruitgang, ja!",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562265"
+    },
+    {
+      "english": "Your fluency is showing.",
+      "Dutch": "Je vloeiendheid is zichtbaar.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562266"
+    },
+    {
+      "english": "You have a great rhythm.",
+      "Dutch": "Je hebt een fijn ritme.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562267"
+    },
+    {
+      "english": "I'm enjoying this conversation.",
+      "Dutch": "Ik geniet van dit gesprek.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562268"
+    },
+    {
+      "english": "You're a natural speaker.",
+      "Dutch": "Je bent een natuurlijke spreker.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562269"
+    },
+    {
+      "english": "That was a perfect sentence.",
+      "Dutch": "Dat was een perfecte zin.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562270"
+    },
+    {
+      "english": "You sound so charming.",
+      "Dutch": "Je klinkt zo charmant.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562271"
+    },
+    {
+      "english": "You're really picking it up.",
+      "Dutch": "Je pikt het goed op.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562272"
+    },
+    {
+      "english": "Your voice is lovely.",
+      "Dutch": "Je stem is mooi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562273"
+    },
+    {
+      "english": "You're mastering this, honestly.",
+      "Dutch": "Je beheerst dit, eerlijk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562274"
+    },
+    {
+      "english": "That intonation, was great.",
+      "Dutch": "Die intonatie, was goed.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562275"
+    },
+    {
+      "english": "You're a Dutch superstar.",
+      "Dutch": "Je bent een Nederlandse superster.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562276"
+    },
+    {
+      "english": "You communicate so well.",
+      "Dutch": "Je communiceert zo goed.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562277"
+    },
+    {
+      "english": "You have a talent for this.",
+      "Dutch": "Je hebt er talent voor.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562283"
+    },
+    {
+      "english": "You're really shining now.",
+      "Dutch": "Je straalt nu echt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562284"
+    },
+    {
+      "english": "Your understanding is deep.",
+      "Dutch": "Je begrip is diep.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562285"
+    },
+    {
+      "english": "You're a pleasure to listen to.",
+      "Dutch": "Je bent een plezier om naar te luisteren.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562286"
+    },
+    {
+      "english": "You've got this, for sure.",
+      "Dutch": "Je kunt dit, zeker.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562287"
+    },
+    {
+      "english": "Your Dutch, is becoming poetic.",
+      "Dutch": "Je Nederlands, wordt poëtisch.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562288"
+    },
+    {
+      "english": "You're so captivating.",
+      "Dutch": "Je bent zo boeiend.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562289"
+    },
+    {
+      "english": "You articulate so clearly.",
+      "Dutch": "Je articuleert zo duidelijk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562290"
+    },
+    {
+      "english": "You, speak Dutch so well.",
+      "Dutch": "Je, spreekt zo goed Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562291"
+    },
+    {
+      "english": "Your, accent is charming.",
+      "Dutch": "Je, accent is charmant.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562292"
+    },
+    {
+      "english": "I, like your Dutch voice.",
+      "Dutch": "Ik, vind je Nederlandse stem fijn.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562293"
+    },
+    {
+      "english": "This, is easy for you.",
+      "Dutch": "Dit, is makkelijk voor jou.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562294"
+    },
+    {
+      "english": "You, understand Dutch perfectly.",
+      "Dutch": "Je, begrijpt Nederlands perfect.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562295"
+    },
+    {
+      "english": "Your, Dutch is improving fast.",
+      "Dutch": "Je, Nederlands wordt snel beter.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562296"
+    },
+    {
+      "english": "You, make Dutch sound beautiful.",
+      "Dutch": "Je, laat Nederlands mooi klinken.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562297"
+    },
+    {
+      "english": "Wow, your Dutch is amazing.",
+      "Dutch": "Wauw, je Nederlands is geweldig.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562297"
+    },
+    {
+      "english": "You, have a knack for Dutch.",
+      "Dutch": "Je, hebt aanleg voor Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562298"
+    },
+    {
+      "english": "Your, pronunciation is spot on.",
+      "Dutch": "Je, uitspraak is perfect.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562299"
+    },
+    {
+      "english": "You, are a natural Dutch speaker.",
+      "Dutch": "Je, bent een natuurlijke Nederlandse spreker.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562300"
+    },
+    {
+      "english": "I, love how you say that.",
+      "Dutch": "Ik, vind het mooi hoe je dat zegt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562302"
+    },
+    {
+      "english": "You, sound so confident in Dutch.",
+      "Dutch": "Je, klinkt zo zelfverzekerd in het Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562302"
+    },
+    {
+      "english": "Your, Dutch flows so smoothly.",
+      "Dutch": "Je, Nederlands stroomt zo soepel.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562303"
+    },
+    {
+      "english": "You, should teach me Dutch.",
+      "Dutch": "Je, zou mij Nederlands moeten leren.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562305"
+    },
+    {
+      "english": "You, really get the grammar.",
+      "Dutch": "Je, snapt de grammatica echt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562306"
+    },
+    {
+      "english": "Your, vocabulary is impressive.",
+      "Dutch": "Je, woordenschat is indrukwekkend.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562307"
+    },
+    {
+      "english": "You, speak Dutch with passion.",
+      "Dutch": "Je, spreekt Nederlands met passie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562308"
+    },
+    {
+      "english": "That, Dutch word sounds so cute.",
+      "Dutch": "Dat, Nederlandse woord klinkt zo schattig.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562309"
+    },
+    {
+      "english": "You, have a gift for languages.",
+      "Dutch": "Je, hebt talent voor talen.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562310"
+    },
+    {
+      "english": "Your, Dutch is truly delightful.",
+      "Dutch": "Je, Nederlands is echt heerlijk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562311"
+    },
+    {
+      "english": "You, are a Dutch language star.",
+      "Dutch": "Je, bent een Nederlandse taalster.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562312"
+    },
+    {
+      "english": "That, sounds so native.",
+      "Dutch": "Dat, klinkt zo inheems.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562313"
+    },
+    {
+      "english": "You, have a way with Dutch.",
+      "Dutch": "Je, hebt een flair voor Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562314"
+    },
+    {
+      "english": "Your, Dutch fluency is amazing.",
+      "Dutch": "Je, Nederlandse vloeiendheid is verbluffend.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562315"
+    },
+    {
+      "english": "You, make learning Dutch fun.",
+      "Dutch": "Je, maakt Nederlands leren leuk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562316"
+    },
+    {
+      "english": "That, Dutch phrase is perfect.",
+      "Dutch": "Die, Nederlandse zin is perfect.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562317"
+    },
+    {
+      "english": "You, have a musical Dutch voice.",
+      "Dutch": "Je, hebt een muzikale Nederlandse stem.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562318"
+    },
+    {
+      "english": "Your, Dutch is so expressive.",
+      "Dutch": "Je, Nederlands is zo expressief.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562353"
+    },
+    {
+      "english": "You, are a Dutch language wizard.",
+      "Dutch": "Je, bent een Nederlandse taalmagiër.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562355"
+    },
+    {
+      "english": "Your, Dutch sounds so natural.",
+      "Dutch": "Je, Nederlands klinkt zo natuurlijk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562356"
+    },
+    {
+      "english": "You, have a talent for Dutch.",
+      "Dutch": "Je, hebt talent voor het Nederlands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562357"
+    },
+    {
+      "english": "This, Dutch is so easy to listen to.",
+      "Dutch": "Dit, Nederlands is zo prettig om te horen.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562358"
+    },
+    {
+      "english": "You, speak Dutch with such grace.",
+      "Dutch": "Je, spreekt Nederlands met zoveel gratie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562359"
+    },
+    {
+      "english": "Your, Dutch is simply divine.",
+      "Dutch": "Je, Nederlands is simpelweg goddelijk.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562360"
+    },
+    {
+      "english": "You, are a Dutch language gem.",
+      "Dutch": "Je, bent een Nederlandse taaljuweel.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562362"
+    },
+    {
+      "english": "I, could listen to your Dutch all day.",
+      "Dutch": "Ik, zou de hele dag naar je Nederlands kunnen luisteren.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562363"
+    },
+    {
+      "english": "Your, Dutch is music to my ears.",
+      "Dutch": "Je, Nederlands is muziek in mijn oren.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562364"
+    },
+    {
+      "english": "You, are a true Dutch linguist.",
+      "Dutch": "Je, bent een ware Nederlandse taalkundige.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562365"
+    },
+    {
+      "english": "Your, Dutch is so effortless.",
+      "Dutch": "Je, Nederlands is zo moeiteloos.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562366"
+    },
+    {
+      "english": "You sound amazing, darling.",
+      "Dutch": "Je klinkt geweldig, schat.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562367"
+    },
+    {
+      "english": "Your Dutch is getting so good.",
+      "Dutch": "Je Nederlands wordt zo goed.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T04:05:25.562368"
     }
   ],
-  "last_updated": "2026-07-17T04:12:44.654814"
+  "last_updated": "2026-07-18T04:05:25.562370"
 }
