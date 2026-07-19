@@ -3599,7 +3599,727 @@
       "Dutch": "Je Nederlands wordt zo goed.",
       "category": "Confidence",
       "generated_at": "2026-07-18T04:05:25.562368"
+    },
+    {
+      "english": "Let's grab a coffee, soon.",
+      "Dutch": "Laten we snel koffie drinken.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139309"
+    },
+    {
+      "english": "That was a good laugh, friend.",
+      "Dutch": "Dat was een goede lach, vriend.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139319"
+    },
+    {
+      "english": "Miss you, a lot.",
+      "Dutch": "Ik mis je, heel erg.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139321"
+    },
+    {
+      "english": "Can I borrow your pen, please?",
+      "Dutch": "Mag ik je pen lenen, alsjeblieft?",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139323"
+    },
+    {
+      "english": "What are you up to, later?",
+      "Dutch": "Wat ga je straks doen?",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139324"
+    },
+    {
+      "english": "This is so much fun, together.",
+      "Dutch": "Dit is zo leuk, samen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139325"
+    },
+    {
+      "english": "Thanks for the help, buddy.",
+      "Dutch": "Bedankt voor de hulp, maat.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139326"
+    },
+    {
+      "english": "You always make me smile.",
+      "Dutch": "Jij laat me altijd lachen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139329"
+    },
+    {
+      "english": "That's a great idea, wow.",
+      "Dutch": "Dat is een goed idee, wauw.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139331"
+    },
+    {
+      "english": "We should do this, more often.",
+      "Dutch": "Dit moeten we vaker doen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139332"
+    },
+    {
+      "english": "I'm so happy, you're here.",
+      "Dutch": "Ik ben zo blij, dat je er bent.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139333"
+    },
+    {
+      "english": "You're a true gem, honestly.",
+      "Dutch": "Jij bent een echte schat, eerlijk.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139334"
+    },
+    {
+      "english": "Tell me everything, later.",
+      "Dutch": "Vertel me alles, straks.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139336"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "Dutch": "Jij bent de beste, serieus.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139337"
+    },
+    {
+      "english": "Let's hang out, soon.",
+      "Dutch": "Laten we snel afspreken.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139344"
+    },
+    {
+      "english": "I appreciate you, so much.",
+      "Dutch": "Ik waardeer je, enorm.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139345"
+    },
+    {
+      "english": "That's hilarious, haha.",
+      "Dutch": "Dat is hilarisch, haha.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139346"
+    },
+    {
+      "english": "Glad we met, really.",
+      "Dutch": "Blij dat we elkaar hebben ontmoet, echt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139349"
+    },
+    {
+      "english": "Need a hand, perhaps?",
+      "Dutch": "Kan ik helpen, misschien?",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139351"
+    },
+    {
+      "english": "You're a good listener, thank you.",
+      "Dutch": "Je bent een goede luisteraar, dank je.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139352"
+    },
+    {
+      "english": "This is going great, wow.",
+      "Dutch": "Dit gaat geweldig, wauw.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139353"
+    },
+    {
+      "english": "Let's plan something, soon.",
+      "Dutch": "Laten we snel iets plannen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139355"
+    },
+    {
+      "english": "You brighten my day, always.",
+      "Dutch": "Jij fleurt mijn dag op, altijd.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139356"
+    },
+    {
+      "english": "That's so thoughtful, of you.",
+      "Dutch": "Dat is zo attent, van jou.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139357"
+    },
+    {
+      "english": "Need a break, maybe?",
+      "Dutch": "Zullen we even pauzeren?",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139358"
+    },
+    {
+      "english": "You're inspiring, truly.",
+      "Dutch": "Jij bent inspirerend, echt waar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139359"
+    },
+    {
+      "english": "Can I call you, later?",
+      "Dutch": "Mag ik je straks bellen?",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139360"
+    },
+    {
+      "english": "You have my back, always.",
+      "Dutch": "Jij staat altijd achter me.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139361"
+    },
+    {
+      "english": "Let's catch up, soon.",
+      "Dutch": "Laten we elkaar snel zien.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139362"
+    },
+    {
+      "english": "You're so kind, thank you.",
+      "Dutch": "Jij bent zo aardig, dank je.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139363"
+    },
+    {
+      "english": "That was a good chat, mate.",
+      "Dutch": "Dat was een goed gesprek, kerel.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139364"
+    },
+    {
+      "english": "I'm lucky, to have you.",
+      "Dutch": "Ik heb geluk, jou te hebben.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139365"
+    },
+    {
+      "english": "You make things, better.",
+      "Dutch": "Jij maakt dingen, beter.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139366"
+    },
+    {
+      "english": "This is amazing, right?",
+      "Dutch": "Dit is geweldig, toch?",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139367"
+    },
+    {
+      "english": "We should hang out, often.",
+      "Dutch": "We moeten vaker afspreken.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139368"
+    },
+    {
+      "english": "You're a lifesaver, truly.",
+      "Dutch": "Jij bent een redder, echt waar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139369"
+    },
+    {
+      "english": "What's the plan, later?",
+      "Dutch": "Wat zijn de plannen, straks?",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139370"
+    },
+    {
+      "english": "Good friends, are like stars.",
+      "Dutch": "Goede vrienden, zijn als sterren.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139371"
+    },
+    {
+      "english": "Friends, forever, through thick and thin.",
+      "Dutch": "Vrienden, voor altijd, door dik en dun.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139373"
+    },
+    {
+      "english": "A true friend, is a treasure.",
+      "Dutch": "Een ware vriend, is een schat.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139374"
+    },
+    {
+      "english": "Making new friends, feels great.",
+      "Dutch": "Nieuwe vrienden maken, voelt fijn.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139375"
+    },
+    {
+      "english": "This friendship, is special.",
+      "Dutch": "Deze vriendschap, is bijzonder.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139376"
+    },
+    {
+      "english": "We are, a great team.",
+      "Dutch": "Wij zijn, een top team.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139377"
+    },
+    {
+      "english": "You, are a loyal friend.",
+      "Dutch": "Jij, bent een trouwe vriend.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139378"
+    },
+    {
+      "english": "Always there, for each other.",
+      "Dutch": "Altijd er, voor elkaar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139379"
+    },
+    {
+      "english": "Friendship, makes life better.",
+      "Dutch": "Vriendschap, maakt het leven mooier.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139382"
+    },
+    {
+      "english": "Thanks, for being my friend.",
+      "Dutch": "Dank je, voor je vriendschap.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139383"
+    },
+    {
+      "english": "Let's, stay in touch.",
+      "Dutch": "Laten we, contact houden.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139384"
+    },
+    {
+      "english": "Shared laughter, is the best.",
+      "Dutch": "Gedeeld lachen, is het fijnst.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139385"
+    },
+    {
+      "english": "You, understand me completely.",
+      "Dutch": "Jij, begrijpt me helemaal.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139386"
+    },
+    {
+      "english": "Distance, can't break us.",
+      "Dutch": "Afstand, kan ons niet breken.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139390"
+    },
+    {
+      "english": "We make, great memories.",
+      "Dutch": "We maken, mooie herinneringen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139392"
+    },
+    {
+      "english": "A friend's shoulder, is comforting.",
+      "Dutch": "Een vrienden schouder, is troostend.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139393"
+    },
+    {
+      "english": "Happy, to have you.",
+      "Dutch": "Blij, je te hebben.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139395"
+    },
+    {
+      "english": "Friendship goals, achieved.",
+      "Dutch": "Vriendschap doelen, bereikt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139396"
+    },
+    {
+      "english": "You, are a true gem.",
+      "Dutch": "Jij, bent een echt juweel.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139397"
+    },
+    {
+      "english": "Let's, celebrate our friendship.",
+      "Dutch": "Laten we, onze vriendschap vieren.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139399"
+    },
+    {
+      "english": "Kind words, mean a lot.",
+      "Dutch": "Vriendelijke woorden, betekenen veel.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139401"
+    },
+    {
+      "english": "Glad, we met.",
+      "Dutch": "Blij, dat we elkaar ontmoetten.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139402"
+    },
+    {
+      "english": "You, always cheer me up.",
+      "Dutch": "Jij, vrolijkt me altijd op.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139404"
+    },
+    {
+      "english": "Best friends, forever young.",
+      "Dutch": "Beste vrienden, voor altijd jong.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139405"
+    },
+    {
+      "english": "Our bond, is strong.",
+      "Dutch": "Onze band, is sterk.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139406"
+    },
+    {
+      "english": "Sharing secrets, builds trust.",
+      "Dutch": "Geheimen delen, bouwt vertrouwen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139407"
+    },
+    {
+      "english": "You, make me laugh so hard.",
+      "Dutch": "Jij, laat me zo lachen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139408"
+    },
+    {
+      "english": "A friend in need, is a friend indeed.",
+      "Dutch": "Een vriend in nood, is een vriend zeker.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139409"
+    },
+    {
+      "english": "We, go way back.",
+      "Dutch": "We kennen, elkaar al lang.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139410"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "Dutch": "Dank je wel, voor alles.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139411"
+    },
+    {
+      "english": "Having you, is a blessing.",
+      "Dutch": "Jou hebben, is een zegen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139414"
+    },
+    {
+      "english": "Friends, like family.",
+      "Dutch": "Vrienden, als familie.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139415"
+    },
+    {
+      "english": "This connection, is meaningful.",
+      "Dutch": "Deze verbinding, is betekenisvol.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139417"
+    },
+    {
+      "english": "You, have a good heart.",
+      "Dutch": "Jij, hebt een goed hart.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139418"
+    },
+    {
+      "english": "Friendship, is a gift.",
+      "Dutch": "Vriendschap, is een geschenk.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139419"
+    },
+    {
+      "english": "Let's, make more plans.",
+      "Dutch": "Laten we, meer plannen maken.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139420"
+    },
+    {
+      "english": "Always, got your back.",
+      "Dutch": "Altijd, sta ik voor je klaar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139422"
+    },
+    {
+      "english": "You, are irreplaceable.",
+      "Dutch": "Jij, bent onvervangbaar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139423"
+    },
+    {
+      "english": "Cheers, to our friendship!",
+      "Dutch": "Proost, op onze vriendschap!",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139424"
+    },
+    {
+      "english": "Life is better, with friends.",
+      "Dutch": "Het leven is beter, met vrienden.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139425"
+    },
+    {
+      "english": "Good friends, are like stars.",
+      "Dutch": "Goede vrienden, zijn als sterren.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139428"
+    },
+    {
+      "english": "Friends, forever, through thick and thin.",
+      "Dutch": "Vrienden, voor altijd, door dik en dun.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139429"
+    },
+    {
+      "english": "A true friend, is a treasure.",
+      "Dutch": "Een ware vriend, is een schat.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139430"
+    },
+    {
+      "english": "Making new friends, feels great.",
+      "Dutch": "Nieuwe vrienden maken, voelt fijn.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139432"
+    },
+    {
+      "english": "This friendship, is special.",
+      "Dutch": "Deze vriendschap, is bijzonder.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139433"
+    },
+    {
+      "english": "We are, a great team.",
+      "Dutch": "Wij zijn, een top team.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139434"
+    },
+    {
+      "english": "You, are a loyal friend.",
+      "Dutch": "Jij, bent een trouwe vriend.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139435"
+    },
+    {
+      "english": "Always there, for each other.",
+      "Dutch": "Altijd er, voor elkaar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139436"
+    },
+    {
+      "english": "Friendship, makes life better.",
+      "Dutch": "Vriendschap, maakt het leven mooier.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139437"
+    },
+    {
+      "english": "Thanks, for being my friend.",
+      "Dutch": "Dank je, voor je vriendschap.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139438"
+    },
+    {
+      "english": "Let's, stay in touch.",
+      "Dutch": "Laten we, contact houden.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139439"
+    },
+    {
+      "english": "Shared laughter, is the best.",
+      "Dutch": "Gedeeld lachen, is het fijnst.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139440"
+    },
+    {
+      "english": "You, understand me completely.",
+      "Dutch": "Jij, begrijpt me helemaal.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139442"
+    },
+    {
+      "english": "Distance, can't break us.",
+      "Dutch": "Afstand, kan ons niet breken.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139443"
+    },
+    {
+      "english": "We make, great memories.",
+      "Dutch": "We maken, mooie herinneringen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139444"
+    },
+    {
+      "english": "A friend's shoulder, is comforting.",
+      "Dutch": "Een vrienden schouder, is troostend.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139445"
+    },
+    {
+      "english": "Happy, to have you.",
+      "Dutch": "Blij, je te hebben.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139446"
+    },
+    {
+      "english": "Friendship goals, achieved.",
+      "Dutch": "Vriendschap doelen, bereikt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139447"
+    },
+    {
+      "english": "You, are a true gem.",
+      "Dutch": "Jij, bent een echt juweel.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139449"
+    },
+    {
+      "english": "Let's, celebrate our friendship.",
+      "Dutch": "Laten we, onze vriendschap vieren.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139450"
+    },
+    {
+      "english": "Kind words, mean a lot.",
+      "Dutch": "Vriendelijke woorden, betekenen veel.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139451"
+    },
+    {
+      "english": "Glad, we met.",
+      "Dutch": "Blij, dat we elkaar ontmoetten.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139452"
+    },
+    {
+      "english": "You, always cheer me up.",
+      "Dutch": "Jij, vrolijkt me altijd op.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139453"
+    },
+    {
+      "english": "Best friends, forever young.",
+      "Dutch": "Beste vrienden, voor altijd jong.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139454"
+    },
+    {
+      "english": "Our bond, is strong.",
+      "Dutch": "Onze band, is sterk.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139455"
+    },
+    {
+      "english": "Sharing secrets, builds trust.",
+      "Dutch": "Geheimen delen, bouwt vertrouwen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139456"
+    },
+    {
+      "english": "You, make me laugh so hard.",
+      "Dutch": "Jij, laat me zo lachen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139457"
+    },
+    {
+      "english": "A friend in need, is a friend indeed.",
+      "Dutch": "Een vriend in nood, is een vriend zeker.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139458"
+    },
+    {
+      "english": "We, go way back.",
+      "Dutch": "We kennen, elkaar al lang.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139460"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "Dutch": "Dank je wel, voor alles.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139461"
+    },
+    {
+      "english": "Having you, is a blessing.",
+      "Dutch": "Jou hebben, is een zegen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139462"
+    },
+    {
+      "english": "Friends, like family.",
+      "Dutch": "Vrienden, als familie.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139463"
+    },
+    {
+      "english": "This connection, is meaningful.",
+      "Dutch": "Deze verbinding, is betekenisvol.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139466"
+    },
+    {
+      "english": "You, have a good heart.",
+      "Dutch": "Jij, hebt een goed hart.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139467"
+    },
+    {
+      "english": "Friendship, is a gift.",
+      "Dutch": "Vriendschap, is een geschenk.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139468"
+    },
+    {
+      "english": "Let's, make more plans.",
+      "Dutch": "Laten we, meer plannen maken.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139469"
+    },
+    {
+      "english": "Always, got your back.",
+      "Dutch": "Altijd, sta ik voor je klaar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139472"
+    },
+    {
+      "english": "You, are irreplaceable.",
+      "Dutch": "Jij, bent onvervangbaar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139473"
+    },
+    {
+      "english": "Cheers, to our friendship!",
+      "Dutch": "Proost, op onze vriendschap!",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139474"
+    },
+    {
+      "english": "Life is better, with friends.",
+      "Dutch": "Het leven is beter, met vrienden.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139475"
+    },
+    {
+      "english": "Good friends, are like stars.",
+      "Dutch": "Goede vrienden, zijn als sterren.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139477"
+    },
+    {
+      "english": "Friends, forever, through thick and thin.",
+      "Dutch": "Vrienden, voor altijd, door dik en dun.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139483"
+    },
+    {
+      "english": "A true friend, is a treasure.",
+      "Dutch": "Een ware vriend, is een schat.",
+      "category": "Friendship",
+      "generated_at": "2026-07-19T04:26:15.139484"
     }
   ],
-  "last_updated": "2026-07-18T04:05:25.562370"
+  "last_updated": "2026-07-19T04:26:15.139486"
 }
